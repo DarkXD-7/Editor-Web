@@ -261,11 +261,23 @@ If the file doesn't exist or fails to load, it falls back to your Discord avatar
 ## License
 
 MIT — free to use for personal and commercial projects. Attribution appreciated but not required.
+```
+Made with ❤️ by sae.py | SynthX Development · © 2026
+```
+
+This portfolio template is **free to use and modify** for personal and commercial use, provided:
+
+- ✅ You may change your name, content, colours, and projects freely.
+- ✅ You may deploy and publish this portfolio publicly.
+- ❌ **You must not remove or modify the footer credit line** (`Made with ❤️ by sae.py | SynthX Development`).
+- ❌ You must not claim authorship of the original template design.
+
+The footer credit is small, unobtrusive, and the only thing asked in return for a free, well-crafted template. Please respect it.
 
 ---
 
 <div align="center">
 
-Built with ♥ · Template by [sae.py](https://github.com/saepy)
+Built with <3 a Template by [Dark](https://github.com/DarkXD-7)
 
 </div>
